@@ -119,6 +119,7 @@ finance-dashboard/
   |- environment.d.ts
   |- middleware.ts
   |- next.config.mjs
+  |- package-lock.json
   |- package.json
   |- postcss.config.mjs
   |- tailwind.config.ts
